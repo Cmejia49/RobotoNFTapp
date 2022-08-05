@@ -1,6 +1,8 @@
 # RobotoNFTapp
 practice for react native 
 
+##Demo
+https://snack.expo.dev/@tope4949/github.com-cmejia49-robotonftapp?platform=android
 
 ## Screenshots
 
